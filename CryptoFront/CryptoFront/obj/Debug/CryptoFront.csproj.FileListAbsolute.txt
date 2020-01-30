@@ -1,0 +1,13 @@
+E:\Projects\CryptoFront\CryptoFront\bin\Debug\CryptoFront.exe.config
+E:\Projects\CryptoFront\CryptoFront\bin\Debug\CryptoFront.exe
+E:\Projects\CryptoFront\CryptoFront\bin\Debug\CryptoFront.pdb
+E:\Projects\CryptoFront\CryptoFront\bin\Debug\QRCoder.dll
+E:\Projects\CryptoFront\CryptoFront\bin\Debug\System.Drawing.Common.dll
+E:\Projects\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csprojAssemblyReference.cache
+E:\Projects\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Form1.resources
+E:\Projects\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Properties.Resources.resources
+E:\Projects\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.GenerateResource.cache
+E:\Projects\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.CoreCompileInputs.cache
+E:\Projects\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.CopyComplete
+E:\Projects\CryptoFront\CryptoFront\obj\Debug\CryptoFront.exe
+E:\Projects\CryptoFront\CryptoFront\obj\Debug\CryptoFront.pdb

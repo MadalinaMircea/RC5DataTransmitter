@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoSharingSystem</string>
+    <string name="title_activity_send_text">SendTextActivity</string>
+</resources>
